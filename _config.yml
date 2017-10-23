@@ -1,0 +1,2 @@
+baseurl: /r
+exclude: ['README.md']
